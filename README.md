@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Surya Kuntamukkala
 - 👀 I’m interested in BackEnd 
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning GoLang
 
 - 📫 How to reach me samsixtynine@gmail.com
 
