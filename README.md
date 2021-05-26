@@ -2,7 +2,7 @@
 - 👀 I’m interested in BackEnd 
 - 🌱 I’m currently learning GoLang
 
-- 📫 How to reach me samsixtynine@gmail.com
+- 📫 How to reach me samsixtynine69@gmail.com
 
 <!---
 raumdeuter69/raumdeuter69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
