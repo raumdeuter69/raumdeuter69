@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Surya Kuntamukkala
 - 👀 I’m interested in BackEnd 
-- 🌱 I’m currently learning GoLang,Docker
+- 🌱 I’m currently learning PHP,GoLang,Docker
 
 - 📫 How to reach me samsixtynine69@gmail.com
 
