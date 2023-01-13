@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Surya Kuntamukkala
+- 👋 Hi, I’m Sameer Kuntamukkala
 - 👀 I’m interested in BackEnd 
 - 🌱 I’m currently learning Docker,React,TypeScript
 
