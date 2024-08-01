@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sameer Kuntamukkala
 - 👀 I’m interested in BackEnd 
-- 🌱 I’m currently learning Docker,TypeScript,Java,Go,SpringBoot
+- 🌱 I’m currently working with Docker,TypeScript,Java,Go,SpringBoot
 
 - 📫 How to reach me samsixtynine69@gmail.com
 
